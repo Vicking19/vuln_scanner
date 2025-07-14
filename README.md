@@ -71,5 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Vikas Lalchand Mallah**  
-📧 Email: vikas.malllah@example.com  
-🔗 GitHub: [Vicking19](https://github.com/Vicking19)
+📧 Email: vikasmallah19@gmail.com  
+🏫 University: DY Patil International University
