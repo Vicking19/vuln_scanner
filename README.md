@@ -71,5 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Vikas Lalchand Mallah, Sail Sanjay Pawar**  
-📧 Email: vikasmallah19@gmail.com , sailpawar7245@gmail.com 
+📧 Email: vikasmallah19@gmail.com , sailpawar7245@gmail.com
 🏫 University: DY Patil International University
